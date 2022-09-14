@@ -715,6 +715,8 @@ a {
     transition: background-color var(--animation);
 }
 
+/*Footer-subscribe-block*/
+
 .subscribe-block {
     margin-left: 93px;
 }
